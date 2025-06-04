@@ -5,5 +5,5 @@ opencv-python
 keras
 scikit-learn
 streamlit
-
+cv2
 
