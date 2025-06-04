@@ -2,8 +2,8 @@ tensorflow
 numpy
 matplotlib
 opencv-python
+cv2
 keras
 scikit-learn
 streamlit
-cv2
 
